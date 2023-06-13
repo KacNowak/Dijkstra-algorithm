@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1686673800 source:c:\users\kacper-wroclaw\desktop\sd\2\stack.cpp
+	"stack.hpp"
+
+1686673007 c:\users\kacper-wroclaw\desktop\sd\2\stack.hpp
+	<iostream>
+	<vector>
+	<limits>
+
+1686673933 source:c:\users\kacper-wroclaw\desktop\sd\2\heap.cpp
+	"heap.hpp"
+
+1686673932 c:\users\kacper-wroclaw\desktop\sd\2\heap.hpp
+	<iostream>
+	<vector>
+	<limits>
+	<random>
+
+1686679646 source:c:\users\kacper-wroclaw\desktop\sd\2\main.cpp
+	"stack.hpp"
+	"heap.hpp"
+	<chrono>
+
